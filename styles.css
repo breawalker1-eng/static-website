@@ -4,8 +4,15 @@ h1, h2, h3{
 #musicians{
     background-color: darkolivegreen;
     color: lightgreen;
+    text-align: center;
 }
 #error{
     background-color:floralwhite;
     color:crimson;
+}
+img{
+    width: 350px;
+    height: 350px;
+    display: block;
+    margin: auto;
 }
